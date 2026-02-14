@@ -14,5 +14,5 @@ The project uses **Naive Bayes** with **TF-IDF vectorization** and includes a **
 
 ---
 
-## 🗂 Project Structure
+
 
